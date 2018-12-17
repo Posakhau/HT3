@@ -1,0 +1,5 @@
+open "http://www.google.com" "3"
+checkPageTitle "Google Search Page"
+checkPageContains "The best search engine"
+checkLinkPresentByHref "http://23gp.by/profsoyuz"
+open "http://www.yandex.ru" "6"
